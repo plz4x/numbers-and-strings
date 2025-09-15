@@ -1,8 +1,8 @@
 second repo!
 
-1 of the most satisfying things to watch in python are number simulations. u enter a few settings, and poof, numbers whizz past the screen. so cool :O
+1 of the most satisfying things to watch in python are text simulations. u enter a few settings, and poof, numbers and words whizz past the screen. so cool :O
 
-this repo will hold all of my number simulations.
+this repo will hold all of my number and string simulations.
 
 thats kinda all i have to say i guess
 
